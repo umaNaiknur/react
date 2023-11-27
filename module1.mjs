@@ -1,4 +1,5 @@
 const a ="Uma";
 const b="Madhu";
 
-export default b;
+export default a;
+export {b}
